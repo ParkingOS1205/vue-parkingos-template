@@ -1,10 +1,8 @@
 # vue-admin-template
 
-English | [简体中文](./README-zh.md)
+> ParkingOs Project basic template
 
-> A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
-
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+**Live demo:** http://test.bolink.club/vue-parkingos-template
 
 
 **The current version is `v4.0+` build on `vue-cli`. If you want to use the old version , you can switch branch to [tag/3.11.0](https://github.com/PanJiaChen/vue-admin-template/tree/tag/3.11.0), it does not rely on `vue-cli`**
@@ -13,10 +11,10 @@ English | [简体中文](./README-zh.md)
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/ParkingOS1205/vue-parkingos-template.git
 
 # enter the project directory
-cd vue-admin-template
+cd vue-parkingos-template
 
 # install dependency
 npm install
@@ -83,8 +81,3 @@ Modern browsers and Internet Explorer 10+.
 | --------- | --------- | --------- | --------- |
 | IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions
 
-## License
-
-[MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
-
-Copyright (c) 2017-present PanJiaChen
